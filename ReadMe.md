@@ -6,3 +6,13 @@
 
 Project ini adalah tugas dari mata kuliah Data Mining sebagai tugas akhir. Dengan membuat klasifikasi akreditasi sekolah berdasarkan data jumlah guru, jumlah siswa, dan kondisi lingkungan. Data ini masih belum akurat, maka dengan itu diharapkan teman-teman bisa membantu mengembangkan project ini dengan menekan tombol ``fork`` diatas.
 ***Terima Kasih***
+
+### Tools Stack
+
+Macam tools yang digunakan :
+```
+    tools_stack = {
+        'flask' => 'v2.2.2',
+        'bootstrap' => 'v5.2.3',
+    }
+```
