@@ -12,7 +12,7 @@ Project ini adalah tugas dari mata kuliah Data Mining sebagai tugas akhir. Denga
 Macam tools yang digunakan :
 ```
     tools_stack = {
-        'flask' => 'v2.2.2',
-        'bootstrap' => 'v5.2.3',
+        'flask' : 'v2.2.2',
+        'bootstrap' : 'v5.2.3',
     }
 ```
